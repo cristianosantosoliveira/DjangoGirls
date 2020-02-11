@@ -54,3 +54,12 @@ h4 {
 .post h2 a:visited {
     color: #000000;
 }
+
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+    display: block;
+    float: right;
+    margin-right: 10px;
+}
